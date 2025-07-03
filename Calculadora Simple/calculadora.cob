@@ -1,6 +1,6 @@
              >>SOURCE FORMAT FREE
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. Calculadora.
+       PROGRAM-ID. Calculadora Simple.
 
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
